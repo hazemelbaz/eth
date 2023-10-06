@@ -26,3 +26,4 @@ Tentative topics:
   * [Hacking security ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
   * [Hacking books](https://github.com/InspectorDidi/Hacking-Books)
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+* [YOUTUBE FOR THIS COURSE](https://www.youtube.com/playlist?list=PLFUwwtayu_6lCVNNDcm-jwIWTpdBcBvu-)
